@@ -8834,19 +8834,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+    "C:\\Users\\hg259\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\ApiEmpresa\\ApiEmpresa.csproj",
+      "projectUniqueName": "C:\\Users\\hg259\\Escritorio\\APIEMPRESA\\Tarea-5-Net-8\\ApiEmpresa.csproj",
       "projectName": "ApiEmpresa",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\ApiEmpresa\\ApiEmpresa.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\ApiEmpresa\\obj\\",
+      "projectPath": "C:\\Users\\hg259\\Escritorio\\APIEMPRESA\\Tarea-5-Net-8\\ApiEmpresa.csproj",
+      "packagesPath": "C:\\Users\\hg259\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hg259\\Escritorio\\APIEMPRESA\\Tarea-5-Net-8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\hg259\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

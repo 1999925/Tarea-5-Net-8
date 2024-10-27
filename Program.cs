@@ -4,10 +4,10 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 string? cadena = builder.Configuration.GetConnectionString("DefaultConnection")?? "otracadena";
-/*if (cadena !=null){
+if (cadena !=null){
     builder.Services.AddDbContext<Conexiones>(opt =>
     opt.UseMySQL(cadena));
-}*/
+}
 builder.Services.AddControllers();
 builder.Services.AddDbContext<Conexiones>(opt =>
     opt.UseMySQL(cadena));
